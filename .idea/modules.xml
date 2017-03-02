@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LaunchPad.iml" filepath="$PROJECT_DIR$/LaunchPad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugger/debugger.iml" filepath="$PROJECT_DIR$/debugger/debugger.iml" />
     </modules>
   </component>
 </project>
