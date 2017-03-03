@@ -1,4 +1,4 @@
-package org.library.support.debugger;
+package com.github.smmayank.debugger;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

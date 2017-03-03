@@ -1,4 +1,4 @@
-package org.library.support.launchpad;
+package com.github.smmayank.launchpad;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

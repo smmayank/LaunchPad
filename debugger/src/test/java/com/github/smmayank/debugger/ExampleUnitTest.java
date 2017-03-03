@@ -1,4 +1,4 @@
-package org.library.support.launchpad;
+package com.github.smmayank.debugger;
 
 import org.junit.Test;
 
