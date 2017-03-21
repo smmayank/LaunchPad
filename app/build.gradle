@@ -4,7 +4,7 @@ android {
   compileSdkVersion 25
   buildToolsVersion "25.0.2"
   defaultConfig {
-    applicationId "org.library.support.launchpad"
+    applicationId "com.github.smmayank.launchpad"
     minSdkVersion 15
     targetSdkVersion 25
     versionCode 1

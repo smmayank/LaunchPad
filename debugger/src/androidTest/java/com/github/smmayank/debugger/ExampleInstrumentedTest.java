@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("org.library.support.debugger.test", appContext.getPackageName());
+        assertEquals("com.github.smmayank.launchpad.debugger.test", appContext.getPackageName());
     }
 }

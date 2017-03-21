@@ -4,6 +4,8 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.util.Log;
 
+import com.github.smmayank.launchpad.debugger.BuildConfig;
+
 import java.util.IllegalFormatException;
 import java.util.Locale;
 
