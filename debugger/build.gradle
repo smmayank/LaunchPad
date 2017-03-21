@@ -35,6 +35,7 @@ bintray {
   pkg {
     repo = 'maven'
     name = 'debugger'
+    userOrg = "Launchpad"
     licenses = ['Apache-2.0']
     vcsUrl = 'https://github.com/smmayank/LaunchPad.git'
     version {
